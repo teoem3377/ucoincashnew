@@ -1,0 +1,113 @@
+.img-flag {
+    width: 33px;
+    cursor: pointer;
+}
+
+.div-flag-container {
+    display: table;
+    width: 100%;
+    text-align: left;
+}
+
+.two-column.td-image {
+    float: left;
+    width: 44%;
+    margin: 3%;
+    background: #f6f7fb;
+}
+
+    .two-column.td-image.table-bordered > tbody > tr > td {
+        vertical-align: middle;
+    }
+
+tr.line > td.letter {
+    font-weight: 600;
+    color: #37b4a4;
+}
+
+.div-flag-controller {
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.div-user-container {
+        display: table;
+        max-width: 700px;
+        margin: 0 auto;
+        width: 100%;
+        background: #fff;
+        padding: 50px  40px;
+    }
+
+    .user-item {
+        display: table;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .user-item-left {
+        float: left;
+        width: 120px;
+        line-height: 34px;
+        font-weight: 600;
+    }
+
+    .user-item-right {
+        float: left;
+        width: calc(100% - 120px);
+        line-height: 34px;
+    }
+    .user-item-right input[disabled]{
+        border: none;
+    }
+
+    .user-item-right input.form-control{
+        border-radius:0px;
+    }
+    .div-change-pass-item {
+        margin-bottom: 8px;
+        line-height: 30px;
+    }
+
+    img#img-flag-identity {
+        width: 30px;
+        cursor: pointer;
+    }
+
+    strong#span-country-name {
+        margin-left: 8px;
+        cursor:pointer;
+    }
+
+    #btn-update, button[data-target="#modal-change-pass"]{
+        margin-top:10px;
+        margin-right:8px;
+      
+    }
+
+    .user-info-controller{
+        margin-top:30px;
+    }
+@media (max-width: 410px){
+
+    .two-column.td-image{
+        width:100%;
+        margin:0px;
+    }
+
+    .page-header{
+        margin-top:25px;
+    }
+
+    .user-item-left,.user-item-right{
+        width:100%;
+    }
+
+    .div-user-container{
+        padding:20px 10px;
+    }
+}
+
+.slt-flag-ico{
+    margin-left:5px;
+}

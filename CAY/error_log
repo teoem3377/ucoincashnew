@@ -1,0 +1,18 @@
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 28
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'vaiovn'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 29
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/vaiovn/public_html/CAY/json.php on line 29
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vaiovn'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 30
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vaiovn/public_html/CAY/json.php on line 30
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/vaiovn/public_html/CAY/json.php on line 32
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/vaiovn/public_html/CAY/json.php on line 33
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/vaiovn/public_html/CAY/json.php on line 41
+[24-Apr-2016 10:41:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/vaiovn/public_html/CAY/json.php on line 42
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 28
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'vaiovn'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 29
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/vaiovn/public_html/CAY/json.php on line 29
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vaiovn'@'localhost' (using password: NO) in /home/vaiovn/public_html/CAY/json.php on line 30
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vaiovn/public_html/CAY/json.php on line 30
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/vaiovn/public_html/CAY/json.php on line 32
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/vaiovn/public_html/CAY/json.php on line 33
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/vaiovn/public_html/CAY/json.php on line 41
+[24-Apr-2016 10:41:46 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/vaiovn/public_html/CAY/json.php on line 42

@@ -1,0 +1,294 @@
+[05-Apr-2016 17:24:12 Asia/Ho_Chi_Minh] PHP Warning:  include_once(./sources/useronline.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 28
+[05-Apr-2016 17:24:12 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening './sources/useronline.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 28
+[06-Apr-2016 06:03:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1638
+[06-Apr-2016 06:08:40 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '']*dinhmucthamgia($maso);' (T_CONSTANT_ENCAPSED_STRING) in /home/vaiovn/public_html/sources/banhang.php on line 59
+[06-Apr-2016 10:26:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vaiovn/public_html/templates/danhsachphucap_tpl.php on line 110
+[06-Apr-2016 10:26:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vaiovn/public_html/templates/danhsachphucap_tpl.php on line 110
+[06-Apr-2016 10:40:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1638
+[11-Apr-2016 11:27:30 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:27:30 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:28:12 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:28:12 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:28:13 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:28:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:59:23 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 11:59:23 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 12:00:05 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 12:00:05 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 12:00:05 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 12:00:05 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:22 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:22 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:41 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:41 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:42 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[11-Apr-2016 16:05:42 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:15 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:15 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:35 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:35 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:36 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 102
+[13-Apr-2016 08:39:36 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 102
+[17-Apr-2016 15:56:54 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[17-Apr-2016 15:56:54 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 07:58:44 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 07:58:44 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 08:01:50 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 08:01:50 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 11:05:16 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 11:05:16 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 13:02:50 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 13:02:50 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 21:05:17 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 21:05:17 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 21:05:24 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/vaiovn/public_html/index.php on line 111
+[18-Apr-2016 21:05:24 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vaiovn/public_html/index.php on line 111
+[20-Apr-2016 14:01:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:04:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:05:07 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:05:31 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:05:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:08:36 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:09:50 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:10:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 14:15:33 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 16:21:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 16:22:42 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 16:22:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 16:25:56 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[20-Apr-2016 16:30:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1640
+[22-Apr-2016 09:49:13 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1653
+[22-Apr-2016 10:09:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/vaiovn/public_html/admin/lib/functions.php on line 1653
+[29-Aug-2017 10:00:53 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3007
+[31-Aug-2017 22:39:31 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:46:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:47:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:48:28 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:49:32 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:50:11 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:51:02 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:52:06 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:53:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:53:40 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:54:36 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:56:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:56:53 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:58:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 14:59:32 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:00:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:00:43 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:01:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:02:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:04:47 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:05:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:06:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:06:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:07:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:09:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:09:26 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:11:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:12:02 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:12:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:12:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:13:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:13:55 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:14:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:17:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:18:09 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:18:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:19:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:19:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:20:20 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:20:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:21:33 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 15:21:56 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:10:42 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:11:09 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:13:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:13:55 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:16:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:16:26 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:18:49 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:19:02 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:29:29 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:29:43 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:30:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:30:34 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:30:48 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:31:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:31:48 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:32:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:32:29 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:32:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:33:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:40:11 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:40:47 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:41:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:41:33 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:41:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:42:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:47:34 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:48:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:48:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:49:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:52:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[01-Sep-2017 22:52:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[03-Sep-2017 10:52:33 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3059
+[12-Sep-2017 20:39:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[13-Sep-2017 19:06:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[14-Sep-2017 21:01:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[14-Sep-2017 21:04:48 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[14-Sep-2017 21:06:10 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[14-Sep-2017 21:13:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[17-Sep-2017 08:53:56 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[17-Sep-2017 09:00:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[17-Sep-2017 09:14:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[18-Sep-2017 17:15:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[18-Sep-2017 17:23:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[19-Sep-2017 20:24:55 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[19-Sep-2017 20:47:32 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[20-Sep-2017 13:51:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[20-Sep-2017 16:44:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[20-Sep-2017 17:08:27 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[24-Sep-2017 11:51:56 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[24-Sep-2017 11:58:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[24-Sep-2017 15:54:36 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[24-Sep-2017 15:57:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[25-Sep-2017 10:50:50 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[25-Sep-2017 10:54:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[25-Sep-2017 11:46:10 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 14:30:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 14:33:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 14:55:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 14:56:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 15:08:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 15:10:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 15:31:34 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 15:39:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[29-Sep-2017 15:42:34 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[30-Sep-2017 21:59:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3060
+[01-Oct-2017 10:08:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3073
+[02-Oct-2017 14:25:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3073
+[02-Oct-2017 14:33:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3073
+[02-Oct-2017 15:59:27 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3073
+[02-Oct-2017 16:02:26 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3073
+[02-Oct-2017 19:01:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:04:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:06:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:08:19 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:09:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:12:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:13:59 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:15:24 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:16:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:18:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:21:34 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:22:55 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:23:41 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:24:26 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:25:11 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:25:54 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:26:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:28:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:30:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[02-Oct-2017 19:33:11 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[04-Oct-2017 11:58:14 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[05-Oct-2017 11:31:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[05-Oct-2017 21:54:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 08:41:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 11:27:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:07:54 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:25:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:27:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:28:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:35:24 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:37:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:38:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:40:20 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:41:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 12:42:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 15:56:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:12:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:13:15 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:14:11 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:14:37 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:15:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:15:31 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:15:59 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:16:32 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 16:27:29 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[06-Oct-2017 18:37:54 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[07-Oct-2017 11:24:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[07-Oct-2017 11:27:10 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[08-Oct-2017 00:11:38 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[08-Oct-2017 10:42:28 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[12-Oct-2017 11:09:53 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[16-Oct-2017 08:36:36 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[17-Oct-2017 21:24:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 12:27:23 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 22:26:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 22:58:47 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 22:59:39 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 23:01:22 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[20-Oct-2017 23:03:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 00:07:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 00:25:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 00:46:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 07:58:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 07:58:27 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 10:14:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 10:58:02 Asia/Ho_Chi_Minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/cp451279/public_html/wbankcoin.com/index.php on line 188
+[21-Oct-2017 10:58:02 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp451279/public_html/wbankcoin.com/index.php on line 188
+[21-Oct-2017 10:59:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 11:08:54 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 11:09:04 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 11:11:30 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 11:13:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 11:54:03 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 13:41:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 13:42:41 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 13:44:03 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 13:46:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 13:50:52 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 16:52:24 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 17:19:45 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 17:23:41 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 17:34:12 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 18:08:02 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[21-Oct-2017 21:45:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 10:47:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 10:53:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 12:24:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 16:48:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 18:02:16 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[22-Oct-2017 20:50:27 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 11:38:19 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 12:05:44 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 18:02:57 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 18:16:29 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 19:02:25 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:53:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:54:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:55:01 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:55:49 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:57:18 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[24-Oct-2017 21:58:05 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[25-Oct-2017 17:47:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[25-Oct-2017 17:47:49 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[25-Oct-2017 23:05:00 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[25-Oct-2017 23:05:51 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[25-Oct-2017 23:06:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[26-Oct-2017 11:23:36 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3091
+[27-Oct-2017 07:35:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[27-Oct-2017 15:41:20 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[27-Oct-2017 22:45:13 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[30-Oct-2017 13:30:50 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[30-Oct-2017 13:31:17 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[31-Oct-2017 13:54:35 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[31-Oct-2017 13:55:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[04-Nov-2017 13:23:33 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[05-Nov-2017 14:39:09 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[05-Nov-2017 14:40:08 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[05-Nov-2017 14:40:58 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[05-Nov-2017 14:41:46 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
+[07-Nov-2017 15:30:21 Asia/Ho_Chi_Minh] PHP Strict Standards:  Only variables should be passed by reference in /home/cp451279/public_html/wbankcoin.com/aworld/lib/functions.php on line 3092
